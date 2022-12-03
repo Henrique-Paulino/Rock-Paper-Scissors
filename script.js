@@ -62,3 +62,5 @@ const getResult = (userSelection, computerSelection) => {
 }
 
 console.log("Welcome to best rock paper scissors game in the world!")
+
+game();
